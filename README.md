@@ -6,6 +6,8 @@ In this layout exercise is used:
 - Sass
 - HTML
 
+To run the project type the following command: `parcel src/index.html`
+
 The layout consists of replicating a Netflix-like screen that is responsive using Sass media queries. 
 
 Web view:
