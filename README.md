@@ -14,4 +14,4 @@ Web view:
 
 Tablet view
 
-<img src="images/Ipad-screen.png" width="70%">
+<img src="images/ipad-screen.png" width="70%">
