@@ -10,8 +10,8 @@ The layout consists of replicating a Netflix-like screen that is responsive usin
 
 Web view:
 
-<img src="src/images/web-screen.png" width="70%">
+<img src="./src/images/web-screen.png" width="70%">
 
 Tablet view
 
-<img src="src/images/Ipad-screen.png" width="70%">
+<img src="images/Ipad-screen.png" width="70%">
